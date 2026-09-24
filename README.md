@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Huzaifirfan/Huzaifirfan/main/assets/profile-banner.svg" alt=" Mir Huzaif Irfan Analytics Profile Banner" width="100%" />
 
+### Data Analyst focused on turning raw data into clear business insights through Python, SQL, Excel, Power BI, and Business Intelligence.
+
 <br/>
 
 <a href="https://readme-typing-svg.demolab.com">
