@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Huzaifirfan/Huzaifirfan/main/assets/profile-banner.svg" alt="Huzaif Irfan Analytics Profile Banner" width="100%" />
+<img src="https://raw.githubusercontent.com/Huzaifirfan/Huzaifirfan/main/assets/profile-banner.svg" alt=" Mir Huzaif Irfan Analytics Profile Banner" width="100%" />
 
 <br/>
 
