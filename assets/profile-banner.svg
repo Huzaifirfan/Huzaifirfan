@@ -1,0 +1,65 @@
+<svg width="1280" height="360" viewBox="0 0 1280 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="360" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#081426"/>
+      <stop offset="48%" stop-color="#123C7A"/>
+      <stop offset="100%" stop-color="#6D28D9"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#22D3EE"/>
+      <stop offset="100%" stop-color="#FACC15"/>
+    </linearGradient>
+    <filter id="shadow" x="0" y="0" width="200%" height="200%">
+      <feDropShadow dx="0" dy="10" stdDeviation="16" flood-color="#020617" flood-opacity="0.28"/>
+    </filter>
+  </defs>
+
+  <rect width="1280" height="360" rx="30" fill="url(#bg)"/>
+
+  <circle cx="120" cy="70" r="90" fill="#22D3EE" fill-opacity="0.10"/>
+  <circle cx="1160" cy="55" r="95" fill="#A855F7" fill-opacity="0.12"/>
+  <circle cx="1110" cy="315" r="125" fill="#38BDF8" fill-opacity="0.08"/>
+  <circle cx="555" cy="-25" r="120" fill="#F59E0B" fill-opacity="0.08"/>
+
+  <path d="M0 278C150 220 240 322 370 276C500 230 600 314 735 262C870 210 960 300 1090 250C1160 223 1220 232 1280 220V360H0V278Z" fill="#020617" fill-opacity="0.18"/>
+
+  <text x="70" y="105" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="44" font-weight="700">HUZAIF IRFAN</text>
+  <text x="70" y="150" fill="#DBEAFE" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="600">Data Analyst • Business Analysis • Business Intelligence</text>
+  <text x="70" y="190" fill="#E2E8F0" font-family="Arial, Helvetica, sans-serif" font-size="17">Turning raw data into clear insights, useful dashboards, and better decisions.</text>
+
+  <g filter="url(#shadow)">
+    <rect x="70" y="226" width="140" height="44" rx="22" fill="#FFFFFF" fill-opacity="0.12" stroke="#FFFFFF" stroke-opacity="0.24"/>
+    <text x="102" y="254" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700">Python</text>
+
+    <rect x="224" y="226" width="100" height="44" rx="22" fill="#FFFFFF" fill-opacity="0.12" stroke="#FFFFFF" stroke-opacity="0.24"/>
+    <text x="261" y="254" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700">SQL</text>
+
+    <rect x="338" y="226" width="118" height="44" rx="22" fill="#FFFFFF" fill-opacity="0.12" stroke="#FFFFFF" stroke-opacity="0.24"/>
+    <text x="369" y="254" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700">Excel</text>
+
+    <rect x="470" y="226" width="145" height="44" rx="22" fill="#FFFFFF" fill-opacity="0.12" stroke="#FFFFFF" stroke-opacity="0.24"/>
+    <text x="507" y="254" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700">Power BI</text>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="820" y="64" width="392" height="230" rx="26" fill="#FFFFFF" fill-opacity="0.09" stroke="#FFFFFF" stroke-opacity="0.18"/>
+
+    <rect x="852" y="98" width="92" height="138" rx="16" fill="#0F172A" fill-opacity="0.32"/>
+    <rect x="963" y="98" width="92" height="138" rx="16" fill="#0F172A" fill-opacity="0.32"/>
+    <rect x="1074" y="98" width="107" height="138" rx="16" fill="#0F172A" fill-opacity="0.32"/>
+
+    <rect x="875" y="162" width="17" height="55" rx="8.5" fill="#22D3EE"/>
+    <rect x="901" y="143" width="17" height="74" rx="8.5" fill="#38BDF8"/>
+
+    <rect x="986" y="130" width="17" height="87" rx="8.5" fill="#FACC15"/>
+    <rect x="1012" y="153" width="17" height="64" rx="8.5" fill="#FB7185"/>
+
+    <path d="M1090 190L1112 165L1134 176L1154 131L1176 145" stroke="url(#line)" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="1112" cy="165" r="5.5" fill="#22D3EE"/>
+    <circle cx="1134" cy="176" r="5.5" fill="#38BDF8"/>
+    <circle cx="1154" cy="131" r="5.5" fill="#A855F7"/>
+    <circle cx="1176" cy="145" r="5.5" fill="#FACC15"/>
+
+    <text x="850" y="265" fill="#E0F2FE" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="600">Analytics • KPIs • Dashboards • Insights</text>
+  </g>
+</svg>
