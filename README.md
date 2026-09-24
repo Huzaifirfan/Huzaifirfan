@@ -1,75 +1,66 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Huzaifirfan/Huzaifirfan/main/assets/profile-banner.svg" alt="Huzaif Irfan Data Analytics Banner" width="100%" />
+<img src="https://raw.githubusercontent.com/Huzaifirfan/Huzaifirfan/main/assets/profile-banner.svg" alt="Huzaif Irfan Analytics Profile Banner" width="100%" />
 
-# 👋 Hi, I'm Huzaif Irfan
-
-### 📊 Data Analyst | Business Analysis | Business Intelligence
+<br/>
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=22D3EE&center=true&vCenter=true&width=780&lines=Python+%7C+SQL+%7C+Excel+%7C+Power+BI;Turning+raw+data+into+clear+business+insights;Building+clean+dashboards+for+better+decisions;Growing+in+Data+Analytics+%26+Business+Intelligence" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1100&color=38BDF8&center=true&vCenter=true&width=780&lines=Turning+complex+data+into+clear+insights;Building+clean%2C+decision-focused+dashboards;Connecting+business+questions+with+data;Learning%2C+analyzing%2C+and+improving+every+day" alt="Typing introduction" />
 </a>
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Huzaifirfan-0F172A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Huzaifirfan)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mir_Huzaif-2563EB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mir-huzaif-67709a316/)
-[![Gmail](https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:huzaifirfan81@gmail.com)
-
+[![GitHub](https://img.shields.io/badge/GitHub-Explore_Profile-0B1220?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Huzaifirfan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_With_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mir-huzaif-67709a316/)
+[![Gmail](https://img.shields.io/badge/Gmail-Send_a_Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:huzaifirfan81@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=Huzaifirfan&label=Profile+Views&style=for-the-badge&color=7C3AED)
 
 </div>
 
 ---
 
-## 🌈 Professional Snapshot
-
-I'm building my career in **Data Analytics, Business Analysis, and Business Intelligence**.
-
-I enjoy working with data from **cleaning and transformation** to **analysis, reporting, and dashboard creation**, with a focus on making information simple, useful, and easy to understand.
+## 👔 Professional Profile
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### 🔎 Data Analysis
-- Data Cleaning & Transformation
-- Exploratory Data Analysis (EDA)
-- Data Validation
-- SQL Analysis
-- Excel Reporting
-- Data Aggregation
+### 📌 Profile
+Building a career in **Data Analytics, Business Analysis, and Business Intelligence**, with a practical focus on understanding data and presenting it clearly.
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### 💼 Business Analysis
-- KPI Reporting
-- Business-focused Insights
-- Trend Analysis
-- Dashboard Requirements
-- Clear Data Storytelling
-- Decision-support Reporting
+### 💡 Approach
+I like to move from **raw information to structured analysis**, then communicate the result through clear reporting and visual storytelling.
+
+</td>
+<td width="33%" valign="top">
+
+### 🎯 Direction
+Focused on developing strong analytical thinking and creating work that is **clear, useful, professional, and business-oriented**.
 
 </td>
 </tr>
 </table>
 
+> **My goal:** make data easier to understand and insights easier to act on.
+
 ---
 
-## 🧠 Skills
+## 🧠 Skills & Tools
 
 <details open>
 <summary><b>🔍 Data Analysis & Manipulation</b></summary>
 
 <br/>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-2563EB?style=for-the-badge&logo=mysql&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-16A34A?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-**Core Skills**
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=E70488" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/SQL-0EA5E9?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Microsoft_Excel-107C41?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Microsoft Excel"/>
+</p>
 
 - Data Cleaning & Transformation
 - Exploratory Data Analysis
@@ -85,10 +76,10 @@ I enjoy working with data from **cleaning and transformation** to **analysis, re
 
 <br/>
 
-![Power BI](https://img.shields.io/badge/Power_BI-FACC15?style=for-the-badge&logo=powerbi&logoColor=111827)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-
-**Core Skills**
+<p align="center">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111827" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
+</p>
 
 - Interactive Dashboard Development
 - Power Query
@@ -104,9 +95,9 @@ I enjoy working with data from **cleaning and transformation** to **analysis, re
 
 <br/>
 
-![MySQL](https://img.shields.io/badge/MySQL-0F766E?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Core Skills**
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+</p>
 
 - Relational Database Basics
 - Data Retrieval with SQL
@@ -121,14 +112,18 @@ I enjoy working with data from **cleaning and transformation** to **analysis, re
 
 <br/>
 
-![Git](https://img.shields.io/badge/Git-F97316?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0284C7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F59E0B?style=for-the-badge&logo=jupyter&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+</p>
 
-**Workflow**
+<div align="center">
 
-`Raw Data` → `Clean` → `Analyze` → `Visualize` → `Communicate Insights`
+`Raw Data` → `Clean` → `Analyze` → `Visualize` → `Communicate`
+
+</div>
 
 </details>
 
@@ -138,46 +133,40 @@ I enjoy working with data from **cleaning and transformation** to **analysis, re
 
 <div align="center">
 
-![Advanced Python](https://img.shields.io/badge/Advanced_Python-Learning-3B82F6?style=flat-square&logo=python&logoColor=white)
-![Advanced SQL](https://img.shields.io/badge/Advanced_SQL-Learning-2563EB?style=flat-square&logo=mysql&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-Learning-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI_%26_DAX-Improving-EAB308?style=flat-square&logo=powerbi&logoColor=111827)
-![Data Storytelling](https://img.shields.io/badge/Data_Storytelling-Learning-8B5CF6?style=flat-square)
+![Advanced Python](https://img.shields.io/badge/Advanced_Python-In_Progress-2563EB?style=for-the-badge&logo=python&logoColor=white)
+![Advanced SQL](https://img.shields.io/badge/Advanced_SQL-In_Progress-0891B2?style=for-the-badge&logo=mysql&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-Learning-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI & DAX](https://img.shields.io/badge/Power_BI_%26_DAX-Improving-F2C811?style=for-the-badge&logo=powerbi&logoColor=111827)
+![Data Storytelling](https://img.shields.io/badge/Data_Storytelling-Learning-7C3AED?style=for-the-badge)
 
 </div>
 
 ---
 
-## 🔄 My Analytics Workflow
+## 🔄 How I Approach Data
 
 <div align="center">
 
-### 📥 Collect → 🧹 Clean → 🔎 Analyze → 📊 Visualize → 💡 Communicate
+### 📥 Understand → 🧹 Prepare → 🔎 Analyze → 📊 Visualize → 💡 Explain
 
 </div>
 
 ---
 
-## 🎯 Current Focus
-
-> Strengthening my **Python, SQL, Excel, Power BI, dashboard development, business analysis, and business intelligence** skills while preparing to build a strong portfolio of practical analytics work.
-
----
-
-## 📬 Connect With Me
+## 📬 Let's Connect
 
 <div align="center">
 
-Want to talk about **Data Analytics, Business Analysis, Business Intelligence, dashboards, or collaboration?**
+**Open to connecting with people interested in analytics, BI, dashboards, and data-driven problem solving.**
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-View_Profile-0F172A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Huzaifirfan)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mir-huzaif-67709a316/)
-[![Gmail](https://img.shields.io/badge/Gmail-Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:huzaifirfan81@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Huzaifirfan-0B1220?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Huzaifirfan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mir_Huzaif-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mir-huzaif-67709a316/)
+[![Gmail](https://img.shields.io/badge/Gmail-huzaifirfan81%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:huzaifirfan81@gmail.com)
 
 <br/><br/>
 
-### 📈 Learn • Analyze • Visualize • Improve
+### ✨ Clear Data • Clear Insights • Better Decisions
 
 </div>
