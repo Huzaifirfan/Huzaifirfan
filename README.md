@@ -12,7 +12,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-Explore_Profile-0B1220?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Huzaifirfan)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_With_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mir-huzaif-67709a316/)
-[![Gmail](https://img.shields.io/badge/Gmail-Send_a_Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:huzaifirfan81@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-Send_a_Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=huzaifirfan81@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=Huzaifirfan&label=Profile+Views&style=for-the-badge&color=7C3AED)
 
 </div>
@@ -163,7 +163,7 @@ Focused on developing strong analytical thinking and creating work that is **cle
 
 [![GitHub](https://img.shields.io/badge/GitHub-Huzaifirfan-0B1220?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Huzaifirfan)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mir_Huzaif-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mir-huzaif-67709a316/)
-[![Gmail](https://img.shields.io/badge/Gmail-huzaifirfan81%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:huzaifirfan81@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-huzaifirfan81%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=huzaifirfan81@gmail.com)
 
 <br/><br/>
 
