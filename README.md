@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Huzaifirfan/Huzaifirfan/main/assets/profile-banner.svg?v=2" alt=" Mir Huzaif Irfan Analytics Profile Banner" width="100%" />
+<img src="https://raw.githubusercontent.com/Huzaifirfan/Huzaifirfan/main/assets/profile-banner.svg?v=3" alt=" Mir Huzaif Irfan Analytics Profile Banner" width="100%" />
 
 ### Data Analyst focused on turning raw data into clear business insights through Python, SQL, Excel, Power BI, and Business Intelligence.
 
@@ -12,16 +12,16 @@
 
 <br/>
 
-<a href="https://github.com/Huzaifirfan"><img src="https://raw.githubusercontent.com/Huzaifirfan/Huzaifirfan/main/assets/animated-github.svg" alt="Explore GitHub" width="220" /></a>
-<a href="https://www.linkedin.com/in/mir-huzaif-67709a316/"><img src="https://raw.githubusercontent.com/Huzaifirfan/Huzaifirfan/main/assets/animated-linkedin.svg" alt="Connect on LinkedIn" width="220" /></a>
-<a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=huzaifirfan81@gmail.com"><img src="https://raw.githubusercontent.com/Huzaifirfan/Huzaifirfan/main/assets/animated-gmail.svg" alt="Send an email to huzaifirfan81@gmail.com" width="220" /></a>
+<a href="https://github.com/Huzaifirfan"><img src="https://raw.githubusercontent.com/Huzaifirfan/Huzaifirfan/main/assets/animated-github.svg?v=3" alt="Explore GitHub" width="220" /></a>
+<a href="https://www.linkedin.com/in/mir-huzaif-67709a316/"><img src="https://raw.githubusercontent.com/Huzaifirfan/Huzaifirfan/main/assets/animated-linkedin.svg?v=3" alt="Connect on LinkedIn" width="220" /></a>
+<a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=huzaifirfan81@gmail.com"><img src="https://raw.githubusercontent.com/Huzaifirfan/Huzaifirfan/main/assets/animated-gmail.svg?v=3" alt="Send an email to huzaifirfan81@gmail.com" width="220" /></a>
 ![Profile Views](https://komarev.com/ghpvc/?username=Huzaifirfan&label=Profile+Views&style=for-the-badge&color=7C3AED)
 
 </div>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Huzaifirfan/Huzaifirfan/main/assets/animated-profile.svg" alt="Professional Profile — Data Analytics, Business Analysis and Business Intelligence" width="100%" />
+## <img src="https://raw.githubusercontent.com/Huzaifirfan/Huzaifirfan/main/assets/animated-profile.svg?v=3" alt="Professional Profile — Data Analytics, Business Analysis and Business Intelligence" width="100%" />
 
 <table>
 <tr>
@@ -50,7 +50,7 @@ Focused on developing strong analytical thinking and creating work that is **cle
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Huzaifirfan/Huzaifirfan/main/assets/animated-skills.svg" alt="Skills and Tools" width="100%" />
+## <img src="https://raw.githubusercontent.com/Huzaifirfan/Huzaifirfan/main/assets/animated-skills.svg?v=3" alt="Skills and Tools" width="100%" />
 
 <details open>
 <summary><b>🔍 Data Analysis & Manipulation</b></summary>
@@ -58,7 +58,7 @@ Focused on developing strong analytical thinking and creating work that is **cle
 <br/>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Huzaifirfan/Huzaifirfan/main/assets/animated-analysis.svg" alt="Python, Pandas, SQL, Excel" width="100%" />
+<img src="https://raw.githubusercontent.com/Huzaifirfan/Huzaifirfan/main/assets/animated-analysis.svg?v=3" alt="Python, Pandas, SQL, Excel" width="100%" />
 </p>
 
 - Data Cleaning & Transformation
@@ -76,7 +76,7 @@ Focused on developing strong analytical thinking and creating work that is **cle
 <br/>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Huzaifirfan/Huzaifirfan/main/assets/animated-dashboards.svg" alt="Power BI, Tableau, Power Query, DAX" width="100%" />
+<img src="https://raw.githubusercontent.com/Huzaifirfan/Huzaifirfan/main/assets/animated-dashboards.svg?v=3" alt="Power BI, Tableau, Power Query, DAX" width="100%" />
 </p>
 
 - Interactive Dashboard Development
@@ -94,7 +94,7 @@ Focused on developing strong analytical thinking and creating work that is **cle
 <br/>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Huzaifirfan/Huzaifirfan/main/assets/animated-database.svg" alt="MySQL, joins, filtering and aggregation" width="100%" />
+<img src="https://raw.githubusercontent.com/Huzaifirfan/Huzaifirfan/main/assets/animated-database.svg?v=3" alt="MySQL, joins, filtering and aggregation" width="100%" />
 </p>
 
 - Relational Database Basics
@@ -111,7 +111,7 @@ Focused on developing strong analytical thinking and creating work that is **cle
 <br/>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Huzaifirfan/Huzaifirfan/main/assets/animated-tools.svg" alt="Git, GitHub, VS Code, Jupyter" width="100%" />
+<img src="https://raw.githubusercontent.com/Huzaifirfan/Huzaifirfan/main/assets/animated-tools.svg?v=3" alt="Git, GitHub, VS Code, Jupyter" width="100%" />
 </p>
 
 <div align="center">
@@ -124,7 +124,7 @@ Focused on developing strong analytical thinking and creating work that is **cle
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Huzaifirfan/Huzaifirfan/main/assets/animated-learning.svg" alt="Currently learning: Advanced Python, Advanced SQL, Tableau, Power BI and DAX, Data Storytelling" width="100%" />
+## <img src="https://raw.githubusercontent.com/Huzaifirfan/Huzaifirfan/main/assets/animated-learning.svg?v=3" alt="Currently learning: Advanced Python, Advanced SQL, Tableau, Power BI and DAX, Data Storytelling" width="100%" />
 
 <div align="center">
 
@@ -134,7 +134,7 @@ Currently developing deeper skills in **Advanced Python, Advanced SQL, Tableau, 
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Huzaifirfan/Huzaifirfan/main/assets/animated-workflow.svg" alt="How I Approach Data: Understand, Prepare, Analyze, Visualize, Explain" width="100%" />
+## <img src="https://raw.githubusercontent.com/Huzaifirfan/Huzaifirfan/main/assets/animated-workflow.svg?v=3" alt="How I Approach Data: Understand, Prepare, Analyze, Visualize, Explain" width="100%" />
 
 <div align="center">
 
@@ -144,7 +144,7 @@ Currently developing deeper skills in **Advanced Python, Advanced SQL, Tableau, 
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Huzaifirfan/Huzaifirfan/main/assets/animated-connect.svg" alt="Let's Connect" width="100%" />
+## <img src="https://raw.githubusercontent.com/Huzaifirfan/Huzaifirfan/main/assets/animated-connect.svg?v=3" alt="Let's Connect" width="100%" />
 
 <div align="center">
 
@@ -152,12 +152,12 @@ Currently developing deeper skills in **Advanced Python, Advanced SQL, Tableau, 
 
 <br/>
 
-<a href="https://github.com/Huzaifirfan"><img src="https://raw.githubusercontent.com/Huzaifirfan/Huzaifirfan/main/assets/animated-github.svg" alt="Explore GitHub" width="220" /></a>
-<a href="https://www.linkedin.com/in/mir-huzaif-67709a316/"><img src="https://raw.githubusercontent.com/Huzaifirfan/Huzaifirfan/main/assets/animated-linkedin.svg" alt="Connect on LinkedIn" width="220" /></a>
-<a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=huzaifirfan81@gmail.com"><img src="https://raw.githubusercontent.com/Huzaifirfan/Huzaifirfan/main/assets/animated-gmail.svg" alt="Send an email to huzaifirfan81@gmail.com" width="220" /></a>
+<a href="https://github.com/Huzaifirfan"><img src="https://raw.githubusercontent.com/Huzaifirfan/Huzaifirfan/main/assets/animated-github.svg?v=3" alt="Explore GitHub" width="220" /></a>
+<a href="https://www.linkedin.com/in/mir-huzaif-67709a316/"><img src="https://raw.githubusercontent.com/Huzaifirfan/Huzaifirfan/main/assets/animated-linkedin.svg?v=3" alt="Connect on LinkedIn" width="220" /></a>
+<a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=huzaifirfan81@gmail.com"><img src="https://raw.githubusercontent.com/Huzaifirfan/Huzaifirfan/main/assets/animated-gmail.svg?v=3" alt="Send an email to huzaifirfan81@gmail.com" width="220" /></a>
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/Huzaifirfan/Huzaifirfan/main/assets/animated-footer.svg" alt="Clear Data • Clear Insights • Better Decisions" width="100%" />
+<img src="https://raw.githubusercontent.com/Huzaifirfan/Huzaifirfan/main/assets/animated-footer.svg?v=3" alt="Clear Data • Clear Insights • Better Decisions" width="100%" />
 
 </div>
