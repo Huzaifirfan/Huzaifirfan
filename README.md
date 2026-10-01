@@ -12,16 +12,16 @@
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Explore_Profile-0B1220?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Huzaifirfan)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_With_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mir-huzaif-67709a316/)
-[![Gmail](https://img.shields.io/badge/Gmail-Send_a_Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=huzaifirfan81@gmail.com)
+<a href="https://github.com/Huzaifirfan"><img src="https://raw.githubusercontent.com/Huzaifirfan/Huzaifirfan/main/assets/animated-github.svg" alt="Explore GitHub" width="220" /></a>
+<a href="https://www.linkedin.com/in/mir-huzaif-67709a316/"><img src="https://raw.githubusercontent.com/Huzaifirfan/Huzaifirfan/main/assets/animated-linkedin.svg" alt="Connect on LinkedIn" width="220" /></a>
+<a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=huzaifirfan81@gmail.com"><img src="https://raw.githubusercontent.com/Huzaifirfan/Huzaifirfan/main/assets/animated-gmail.svg" alt="Send an email to huzaifirfan81@gmail.com" width="220" /></a>
 ![Profile Views](https://komarev.com/ghpvc/?username=Huzaifirfan&label=Profile+Views&style=for-the-badge&color=7C3AED)
 
 </div>
 
 ---
 
-## 👔 Professional Profile
+## <img src="https://raw.githubusercontent.com/Huzaifirfan/Huzaifirfan/main/assets/animated-profile.svg" alt="Professional Profile — Data Analytics, Business Analysis and Business Intelligence" width="100%" />
 
 <table>
 <tr>
@@ -50,7 +50,7 @@ Focused on developing strong analytical thinking and creating work that is **cle
 
 ---
 
-## 🧠 Skills & Tools
+## <img src="https://raw.githubusercontent.com/Huzaifirfan/Huzaifirfan/main/assets/animated-skills.svg" alt="Skills and Tools" width="100%" />
 
 <details open>
 <summary><b>🔍 Data Analysis & Manipulation</b></summary>
@@ -58,10 +58,7 @@ Focused on developing strong analytical thinking and creating work that is **cle
 <br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=E70488" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/SQL-0EA5E9?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/Microsoft_Excel-107C41?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Microsoft Excel"/>
+<img src="https://raw.githubusercontent.com/Huzaifirfan/Huzaifirfan/main/assets/animated-analysis.svg" alt="Python, Pandas, SQL, Excel" width="100%" />
 </p>
 
 - Data Cleaning & Transformation
@@ -79,8 +76,7 @@ Focused on developing strong analytical thinking and creating work that is **cle
 <br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111827" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
+<img src="https://raw.githubusercontent.com/Huzaifirfan/Huzaifirfan/main/assets/animated-dashboards.svg" alt="Power BI, Tableau, Power Query, DAX" width="100%" />
 </p>
 
 - Interactive Dashboard Development
@@ -98,7 +94,7 @@ Focused on developing strong analytical thinking and creating work that is **cle
 <br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://raw.githubusercontent.com/Huzaifirfan/Huzaifirfan/main/assets/animated-database.svg" alt="MySQL, joins, filtering and aggregation" width="100%" />
 </p>
 
 - Relational Database Basics
@@ -115,10 +111,7 @@ Focused on developing strong analytical thinking and creating work that is **cle
 <br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+<img src="https://raw.githubusercontent.com/Huzaifirfan/Huzaifirfan/main/assets/animated-tools.svg" alt="Git, GitHub, VS Code, Jupyter" width="100%" />
 </p>
 
 <div align="center">
@@ -131,31 +124,27 @@ Focused on developing strong analytical thinking and creating work that is **cle
 
 ---
 
-## 📚 Currently Learning
+## <img src="https://raw.githubusercontent.com/Huzaifirfan/Huzaifirfan/main/assets/animated-learning.svg" alt="Currently learning: Advanced Python, Advanced SQL, Tableau, Power BI and DAX, Data Storytelling" width="100%" />
 
 <div align="center">
 
-![Advanced Python](https://img.shields.io/badge/Advanced_Python-In_Progress-2563EB?style=for-the-badge&logo=python&logoColor=white)
-![Advanced SQL](https://img.shields.io/badge/Advanced_SQL-In_Progress-0891B2?style=for-the-badge&logo=mysql&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-Learning-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Power BI & DAX](https://img.shields.io/badge/Power_BI_%26_DAX-Improving-F2C811?style=for-the-badge&logo=powerbi&logoColor=111827)
-![Data Storytelling](https://img.shields.io/badge/Data_Storytelling-Learning-7C3AED?style=for-the-badge)
+Currently developing deeper skills in **Advanced Python, Advanced SQL, Tableau, Power BI & DAX, and Data Storytelling**.
 
 </div>
 
 ---
 
-## 🔄 How I Approach Data
+## <img src="https://raw.githubusercontent.com/Huzaifirfan/Huzaifirfan/main/assets/animated-workflow.svg" alt="How I Approach Data: Understand, Prepare, Analyze, Visualize, Explain" width="100%" />
 
 <div align="center">
 
-### 📥 Understand → 🧹 Prepare → 🔎 Analyze → 📊 Visualize → 💡 Explain
+**Understand the question → Prepare the data → Analyze patterns → Visualize results → Explain the insight.**
 
 </div>
 
 ---
 
-## 📬 Let's Connect
+## <img src="https://raw.githubusercontent.com/Huzaifirfan/Huzaifirfan/main/assets/animated-connect.svg" alt="Let's Connect" width="100%" />
 
 <div align="center">
 
@@ -163,12 +152,12 @@ Focused on developing strong analytical thinking and creating work that is **cle
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Huzaifirfan-0B1220?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Huzaifirfan)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mir_Huzaif-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mir-huzaif-67709a316/)
-[![Gmail](https://img.shields.io/badge/Gmail-huzaifirfan81%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=huzaifirfan81@gmail.com)
+<a href="https://github.com/Huzaifirfan"><img src="https://raw.githubusercontent.com/Huzaifirfan/Huzaifirfan/main/assets/animated-github.svg" alt="Explore GitHub" width="220" /></a>
+<a href="https://www.linkedin.com/in/mir-huzaif-67709a316/"><img src="https://raw.githubusercontent.com/Huzaifirfan/Huzaifirfan/main/assets/animated-linkedin.svg" alt="Connect on LinkedIn" width="220" /></a>
+<a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=huzaifirfan81@gmail.com"><img src="https://raw.githubusercontent.com/Huzaifirfan/Huzaifirfan/main/assets/animated-gmail.svg" alt="Send an email to huzaifirfan81@gmail.com" width="220" /></a>
 
 <br/><br/>
 
-### ✨ Clear Data • Clear Insights • Better Decisions
+<img src="https://raw.githubusercontent.com/Huzaifirfan/Huzaifirfan/main/assets/animated-footer.svg" alt="Clear Data • Clear Insights • Better Decisions" width="100%" />
 
 </div>
