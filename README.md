@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Huzaifirfan/Huzaifirfan/main/assets/profile-banner.svg" alt=" Mir Huzaif Irfan Analytics Profile Banner" width="100%" />
+<img src="https://raw.githubusercontent.com/Huzaifirfan/Huzaifirfan/main/assets/profile-banner.svg?v=2" alt=" Mir Huzaif Irfan Analytics Profile Banner" width="100%" />
 
 ### Data Analyst focused on turning raw data into clear business insights through Python, SQL, Excel, Power BI, and Business Intelligence.
 
 <br/>
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1100&color=38BDF8&center=true&vCenter=true&width=780&lines=Turning+complex+data+into+clear+insights;Building+clean%2C+decision-focused+dashboards;Connecting+business+questions+with+data;Learning%2C+analyzing%2C+and+improving+every+day" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1100&color=38BDF8&center=true&vCenter=true&width=780&lines=Turning+complex+data+into+clear+insights;Building+clean%2C+decision-focused+dashboards;Connecting+business+questions+with+data;Learning%2C+analyzing%2C+and+improving+every+day" alt="Turning complex data into clear insights — animated introduction" width="100%" />
 </a>
 
 <br/>
