@@ -57,9 +57,14 @@ Focused on developing strong analytical thinking and creating work that is **cle
 
 <br/>
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/Huzaifirfan/Huzaifirfan/main/assets/animated-analysis.svg?v=3" alt="Python, Pandas, SQL, Excel" width="100%" />
-</p>
+<table align="center">
+<tr>
+<td align="center" width="150"><img src="https://raw.githubusercontent.com/Huzaifirfan/Huzaifirfan/main/assets/logos/python.svg" alt="Python logo" width="64" height="64" /><br/><br/><b>Python</b></td>
+<td align="center" width="150"><img src="https://raw.githubusercontent.com/Huzaifirfan/Huzaifirfan/main/assets/logos/pandas.svg" alt="Pandas logo" width="64" height="64" /><br/><br/><b>Pandas</b></td>
+<td align="center" width="150"><img src="https://raw.githubusercontent.com/Huzaifirfan/Huzaifirfan/main/assets/logos/mysql.svg" alt="SQL / MySQL logo" width="64" height="64" /><br/><br/><b>SQL / MySQL</b></td>
+<td align="center" width="150"><img src="https://raw.githubusercontent.com/Huzaifirfan/Huzaifirfan/main/assets/logos/microsoftexcel.svg" alt="Excel logo" width="64" height="64" /><br/><br/><b>Excel</b></td>
+</tr>
+</table>
 
 - Data Cleaning & Transformation
 - Exploratory Data Analysis
@@ -75,9 +80,12 @@ Focused on developing strong analytical thinking and creating work that is **cle
 
 <br/>
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/Huzaifirfan/Huzaifirfan/main/assets/animated-dashboards.svg?v=3" alt="Power BI, Tableau, Power Query, DAX" width="100%" />
-</p>
+<table align="center">
+<tr>
+<td align="center" width="150"><img src="https://raw.githubusercontent.com/Huzaifirfan/Huzaifirfan/main/assets/logos/powerbi.svg" alt="Power BI logo" width="64" height="64" /><br/><br/><b>Power BI</b></td>
+<td align="center" width="150"><img src="https://raw.githubusercontent.com/Huzaifirfan/Huzaifirfan/main/assets/logos/tableau.svg" alt="Tableau logo" width="64" height="64" /><br/><br/><b>Tableau</b></td>
+</tr>
+</table>
 
 - Interactive Dashboard Development
 - Power Query
@@ -88,14 +96,16 @@ Focused on developing strong analytical thinking and creating work that is **cle
 
 </details>
 
-<details>
+<details open>
 <summary><b>🗄️ Database & SQL</b></summary>
 
 <br/>
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/Huzaifirfan/Huzaifirfan/main/assets/animated-database.svg?v=3" alt="MySQL, joins, filtering and aggregation" width="100%" />
-</p>
+<table align="center">
+<tr>
+<td align="center" width="150"><img src="https://raw.githubusercontent.com/Huzaifirfan/Huzaifirfan/main/assets/logos/mysql.svg" alt="MySQL logo" width="64" height="64" /><br/><br/><b>MySQL</b></td>
+</tr>
+</table>
 
 - Relational Database Basics
 - Data Retrieval with SQL
@@ -105,14 +115,19 @@ Focused on developing strong analytical thinking and creating work that is **cle
 
 </details>
 
-<details>
+<details open>
 <summary><b>🛠️ Tools & Workflow</b></summary>
 
 <br/>
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/Huzaifirfan/Huzaifirfan/main/assets/animated-tools.svg?v=3" alt="Git, GitHub, VS Code, Jupyter" width="100%" />
-</p>
+<table align="center">
+<tr>
+<td align="center" width="150"><img src="https://raw.githubusercontent.com/Huzaifirfan/Huzaifirfan/main/assets/logos/git.svg" alt="Git logo" width="64" height="64" /><br/><br/><b>Git</b></td>
+<td align="center" width="150"><img src="https://raw.githubusercontent.com/Huzaifirfan/Huzaifirfan/main/assets/logos/github.svg" alt="GitHub logo" width="64" height="64" /><br/><br/><b>GitHub</b></td>
+<td align="center" width="150"><img src="https://raw.githubusercontent.com/Huzaifirfan/Huzaifirfan/main/assets/logos/visualstudiocode.svg" alt="VS Code logo" width="64" height="64" /><br/><br/><b>VS Code</b></td>
+<td align="center" width="150"><img src="https://raw.githubusercontent.com/Huzaifirfan/Huzaifirfan/main/assets/logos/jupyter.svg" alt="Jupyter logo" width="64" height="64" /><br/><br/><b>Jupyter</b></td>
+</tr>
+</table>
 
 <div align="center">
 
@@ -124,7 +139,16 @@ Focused on developing strong analytical thinking and creating work that is **cle
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Huzaifirfan/Huzaifirfan/main/assets/animated-learning.svg?v=3" alt="Currently learning: Advanced Python, Advanced SQL, Tableau, Power BI and DAX, Data Storytelling" width="100%" />
+## Currently Learning
+
+<table align="center">
+<tr>
+<td align="center" width="150"><img src="https://raw.githubusercontent.com/Huzaifirfan/Huzaifirfan/main/assets/logos/python.svg" alt="Advanced Python logo" width="64" height="64" /><br/><br/><b>Advanced Python</b></td>
+<td align="center" width="150"><img src="https://raw.githubusercontent.com/Huzaifirfan/Huzaifirfan/main/assets/logos/mysql.svg" alt="Advanced SQL logo" width="64" height="64" /><br/><br/><b>Advanced SQL</b></td>
+<td align="center" width="150"><img src="https://raw.githubusercontent.com/Huzaifirfan/Huzaifirfan/main/assets/logos/tableau.svg" alt="Tableau logo" width="64" height="64" /><br/><br/><b>Tableau</b></td>
+<td align="center" width="150"><img src="https://raw.githubusercontent.com/Huzaifirfan/Huzaifirfan/main/assets/logos/powerbi.svg" alt="Power BI &amp; DAX logo" width="64" height="64" /><br/><br/><b>Power BI &amp; DAX</b></td>
+</tr>
+</table>
 
 <div align="center">
 
